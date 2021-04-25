@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="1" tests="1" time="0.347">
+    <testcase classname="HooksDemo" name="RUnning Hooks" time="0.02">
+        <skipped><![CDATA[Given user is on login page.................................................undefined
+When Enter un ps............................................................undefined
+And click on btn............................................................undefined
+Then user switch............................................................undefined
+]]></skipped>
+    </testcase>
+</testsuite>
